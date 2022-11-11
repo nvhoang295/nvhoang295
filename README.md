@@ -21,3 +21,5 @@
 </p>
 
 <div align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nvhoang295&show_icons=true&theme=highcontrast&title_color=fbff00&cache_seconds=1800&locale=en" alt="nvhoang295" /></div>
+
+![snake gif](https://github.com/nvhoang295/Snk/blob/output/github-contribution-grid-snake.gif)
