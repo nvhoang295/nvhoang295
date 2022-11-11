@@ -1,7 +1,7 @@
 [![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://rishavchanda.io)
-<h1 align="center"><img width="100px" src="https://gifdb.com/images/high/cartoon-dog-hi-tea8dy9z3l3vzwsr.webp" alt=""> Hi, I'm Hoang Nguyen Viet <img width="100px" src="https://gifdb.com/images/high/cartoon-dog-hi-tea8dy9z3l3vzwsr.webp" alt=""></h1>
+<h1 align="center">Hi, I'm Hoang Nguyen Viet <br><br> <img width="100px" src="https://gifdb.com/images/high/cartoon-dog-hi-tea8dy9z3l3vzwsr.webp" alt=""></h1>
 
-<img align="right" height="237px" src="https://i.kym-cdn.com/photos/images/newsfeed/001/085/121/4e8.gif" alt="">
+<img align="center" src="https://i.kym-cdn.com/photos/images/newsfeed/001/085/121/4e8.gif" alt="">
 
 - 🌱 I’m currently learning **Software Engineering** major at Hanoi University of Industry
 
