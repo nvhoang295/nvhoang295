@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hoang Nguyen Viet</h1>
 
-<img align="right" height="200px" src="https://i.kym-cdn.com/photos/images/newsfeed/001/085/121/4e8.gif" alt="">
+<img align="right" src="https://i.kym-cdn.com/photos/images/newsfeed/001/085/121/4e8.gif" alt="">
 
 - 🌱 I’m currently learning **Java Web**
 
