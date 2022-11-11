@@ -3,7 +3,7 @@
 
 <img align="right" height="237px" src="https://i.kym-cdn.com/photos/images/newsfeed/001/085/121/4e8.gif" alt="">
 
-- 🌱 I’m currently learning **Java Web**
+- 🌱 I’m currently learning **Software Engineering** major at Hanoi University of Industry
 
 - 📫 How to reach me **viethoang295@outlook.com.vn**
 
