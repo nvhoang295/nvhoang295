@@ -26,5 +26,5 @@
 
 <h3>My contribution graph get eaten by the snake:</h3>
 
-<img width="100%" src="https://github.com/nvhoang295/Snk/blob/output/github-contribution-grid-snake.gif">
+<img width="100%" src="https://github.com/nvhoang295/Snk/blob/output/github-contribution-grid-snake.svg">
 
