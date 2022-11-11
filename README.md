@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hoang Nguyen Viet</h1>
-<h3 align="center">I am learning to become a full-stack developer</h3>
 
-<img align="right" height="240px" src="https://i.kym-cdn.com/photos/images/newsfeed/001/085/121/4e8.gif" alt="">
+<img align="right" height="200px" src="https://i.kym-cdn.com/photos/images/newsfeed/001/085/121/4e8.gif" alt="">
 
 - 🌱 I’m currently learning **Java Web**
 
 - 📫 How to reach me **viethoang295@outlook.com.vn**
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nvhoang295&show_icons=true&theme=highcontrast&title_color=00ccff&locale=en&layout=compact" alt="nvhoang295" /></p>
 
