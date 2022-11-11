@@ -18,10 +18,13 @@
     <a href="https://instagram.com/nvhoang2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nvhoang2002" height="30" width="40" /></a>
 </p>
 
+<h3>My stats:</h3>
+
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nvhoang295&show_icons=true&theme=highcontrast&title_color=00ccff&locale=en&layout=compact" alt="nvhoang295" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nvhoang295&show_icons=true&theme=highcontrast&title_color=fbff00&cache_seconds=1800&locale=en" alt="nvhoang295" /></p>
 
 <h3>My contribution graph get eaten by the snake:</h3>
 
-![snake gif](https://github.com/nvhoang295/Snk/blob/output/github-contribution-grid-snake.gif)
+<img width="100%" src="https://github.com/nvhoang295/Snk/blob/output/github-contribution-grid-snake.gif">
+
