@@ -1,7 +1,7 @@
-[![MasterHead](https://scicom2020.wordpress.ncsu.edu/files/2020/04/Cures-Final-Rule_Banner_Opt2_v34.gif)](https://rishavchanda.io)
+[![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Hoang Nguyen Viet</h1>
 
-<img align="right" height="238px" src="https://i.kym-cdn.com/photos/images/newsfeed/001/085/121/4e8.gif" alt="">
+<img align="right" height="237px" src="https://i.kym-cdn.com/photos/images/newsfeed/001/085/121/4e8.gif" alt="">
 
 - 🌱 I’m currently learning **Java Web**
 
