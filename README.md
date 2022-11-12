@@ -1,5 +1,8 @@
 [![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://rishavchanda.io)
-<h1 align="center">Hi, I'm Hoang Nguyen Viet <br><br> <img width="100px" src="https://gifdb.com/images/high/cartoon-dog-hi-tea8dy9z3l3vzwsr.webp" alt=""></h1>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img width="80%" src="https://readme-typing-svg.demolab.com/?lines=👋+Hi+there+👋;🧑‍💻+I'm+Hoang+Nguyen+Viet+🧑‍💻;🤗+Welcome+to+my+github+profile+🤗&font=Fira%20Code&center=true&width=450&height=50"/></a>
+</h1>
 
 <div align="center"><img width="400px" align="center" src="https://i.kym-cdn.com/photos/images/newsfeed/001/085/121/4e8.gif" alt=""></div>
 
@@ -22,7 +25,7 @@
 <h3 align="center">🐍My contribution graph get eaten by the snake🐍</h3>
 <p align="center"><img src="https://github.com/nvhoang295/nvhoang295/blob/output/github-contribution-grid-snake.svg"></p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 <p align="center">
     <a href="https://fb.com/fb.com/nvhoang2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fb.com/nvhoang2002" height="30" width="40" /></a>
     <a href="https://instagram.com/nvhoang2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nvhoang2002" height="30" width="40" /></a>
