@@ -22,7 +22,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nvhoang295&show_icons=true&theme=highcontrast&title_color=fbff00&cache_seconds=1800&locale=en" alt="nvhoang295" /></p>
 
-<h3 align="center">🐍My contribution graph get eaten by the snake🐍</h3>
+<h3 align="center">🐍 My pet 🐍</h3>
 <p align="center"><img src="https://github.com/nvhoang295/nvhoang295/blob/output/github-contribution-grid-snake.svg"></p>
 
 <h3 align="center">Connect with me</h3>
