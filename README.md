@@ -15,7 +15,7 @@
 </div>
 <h3 align="center">💠Languages and tools💠</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,bootstrap,eclipse,vscode,idea,git,github,powershell,stackoverflow&theme=light" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,bootstrap,eclipse,vscode,idea,git,github,powershell,stackoverflow&theme=light&perline=5" />
 </p>
 
 <h3 align="center">⚡Stats⚡</h3>
