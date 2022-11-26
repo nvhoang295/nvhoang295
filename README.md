@@ -13,7 +13,7 @@
 <div align="center">📫 How to reach me? <a href="mailto:viethoang295@outlook.com.vn">Click here!</a></div>
 
 </div>
-<h3 align="center">💠Learning languages and tools💠</h3>
+<h3 align="center">💠Languages and tools💠</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,bootstrap,eclipse,vscode,idea,git,github,powershell,stackoverflow&theme=light" />
 </p>
