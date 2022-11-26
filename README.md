@@ -1,7 +1,7 @@
 [![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://rishavchanda.io)
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img width="100%" src="https://readme-typing-svg.demolab.com/?lines=👋+Hi+there+👋;🧑‍💻+I'm+Hoang+Nguyen+Viet+🧑‍💻;🤗+Welcome+to+my+github+profile+🤗&font=Fira%20Code&center=true&width=450&height=50"/></a>
+  <img width="100%" src="https://readme-typing-svg.demolab.com/?lines=👋+Hi+there+👋;🧑‍💻+I'm+Hoang+Nguyen+Viet+🧑‍💻;🤗+Welcome+to+my+github+profile+🤗&font=Fira%20Code&center=true&width=450&height=50"/>
 </p>
 
 <div align="center"><img width="400px" align="center" src="https://i.kym-cdn.com/photos/images/newsfeed/001/085/121/4e8.gif" alt=""></div>
