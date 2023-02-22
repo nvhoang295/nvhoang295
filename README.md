@@ -27,14 +27,14 @@
 
 <picture>
 <source 
-  srcset="https://github-readme-stats-z5b3.vercel.app/top-lang?username=nvhoang295&show_icons=true&theme=highcontrast"
+  srcset="https://github-readme-stats-z5b3.vercel.app/api/top-lang?username=nvhoang295&show_icons=true&theme=highcontrast"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats-z5b3.vercel.app/top-lang?username=nvhoang295&show_icons=true&theme=default"
+  srcset="https://github-readme-stats-z5b3.vercel.app/api/top-lang?username=nvhoang295&show_icons=true&theme=default"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats-z5b3.vercel.app/top-lang?username=nvhoang295&show_icons=true" />
+<img src="https://github-readme-stats-z5b3.vercel.app/api/top-lang?username=nvhoang295&show_icons=true" />
 </picture>
 
 <picture>
