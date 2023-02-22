@@ -20,9 +20,25 @@
 
 <h3 align="center">⚡Stats⚡</h3>
 
-<p align="center"><img align="center" src="https://github-readme-stats-z5b3.vercel.app/api/top-langs?username=nvhoang295&show_icons=true&theme=default#gh-light-mode-only&title_color=00ccff&locale=en" alt="nvhoang295" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-stats-z5b3.vercel.app/api/top-langs?username=nvhoang295&show_icons=true&theme=default#gh-light-mode-only&title_color=00ccff&locale=en" alt="nvhoang295" /></p> -->
 
-<p align="center"><img align="center" src="https://github-readme-stats-z5b3.vercel.app/api?username=nvhoang295&show_icons=true&theme=default#gh-light-mode-onlyt&title_color=fbff00&cache_seconds=1800&locale=en" alt="nvhoang295" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-stats-z5b3.vercel.app/api?username=nvhoang295&show_icons=true&theme=default#gh-light-mode-onlyt&title_color=fbff00&cache_seconds=1800&locale=en" alt="nvhoang295" /></p> -->
+
+<picture>
+<source 
+  srcset="https://github-readme-stats-z5b3.vercel.app/api?username=nvhoang295&show_icons=true&theme=highcontrast"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats-z5b3.vercel.app/api?username=nvhoang295&show_icons=true&theme=default"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats-z5b3.vercel.app/api?username=nvhoang295&show_icons=true" />
+</picture>
+
+
+
+
 
 <h3 align="center">🐍 My pet 🐍</h3>
 <p align="center"><img src="https://github.com/nvhoang295/nvhoang295/blob/output/github-contribution-grid-snake.svg"></p>
