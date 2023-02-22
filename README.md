@@ -20,9 +20,9 @@
 
 <h3 align="center">⚡Stats⚡</h3>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nvhoang295&show_icons=true&theme=highcontrast&title_color=00ccff&locale=en&layout=compact" alt="nvhoang295" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats-tawny-two-85.vercel.app/api/top-langs?username=nvhoang295&show_icons=true&theme=highcontrast&title_color=00ccff&locale=en&layout=compact" alt="nvhoang295" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nvhoang295&show_icons=true&theme=highcontrast&title_color=fbff00&cache_seconds=1800&locale=en" alt="nvhoang295" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats-tawny-two-85.vercel.app/api?username=nvhoang295&show_icons=true&theme=highcontrast&title_color=fbff00&cache_seconds=1800&locale=en" alt="nvhoang295" /></p>
 
 <h3 align="center">🐍 My pet 🐍</h3>
 <p align="center"><img src="https://github.com/nvhoang295/nvhoang295/blob/output/github-contribution-grid-snake.svg"></p>
