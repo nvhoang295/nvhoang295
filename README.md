@@ -24,6 +24,19 @@
 
 <!-- <p align="center"><img align="center" src="https://github-readme-stats-z5b3.vercel.app/api?username=nvhoang295&show_icons=true&theme=default#gh-light-mode-onlyt&title_color=fbff00&cache_seconds=1800&locale=en" alt="nvhoang295" /></p> -->
 
+
+<picture>
+<source 
+  srcset="https://github-readme-stats-z5b3.vercel.app/api?username=nvhoang295&show_icons=true&theme=highcontrast"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats-z5b3.vercel.app/top-lang?username=nvhoang295&show_icons=true&theme=default"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats-z5b3.vercel.app/top-lang?username=nvhoang295&show_icons=true" />
+</picture>
+
 <picture>
 <source 
   srcset="https://github-readme-stats-z5b3.vercel.app/api?username=nvhoang295&show_icons=true&theme=highcontrast"
