@@ -20,9 +20,9 @@
 
 <h3 align="center">⚡Stats⚡</h3>
 
-<p align="center"><img align="center" src="https://github-readme-stats-z5b3.vercel.app/api/top-langs?username=nvhoang295&show_icons=true&theme=transparent&title_color=00ccff&locale=en" alt="nvhoang295" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats-z5b3.vercel.app/api/top-langs?username=nvhoang295&show_icons=true&theme=default&title_color=00ccff&locale=en" alt="nvhoang295" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats-z5b3.vercel.app/api?username=nvhoang295&show_icons=true&theme=transparent&title_color=fbff00&cache_seconds=1800&locale=en" alt="nvhoang295" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats-z5b3.vercel.app/api?username=nvhoang295&show_icons=true&theme=default&title_color=fbff00&cache_seconds=1800&locale=en&count_private=true" alt="nvhoang295" /></p>
 
 
 
