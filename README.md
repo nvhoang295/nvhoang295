@@ -22,7 +22,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats-z5b3.vercel.app/api/top-langs?username=nvhoang295&show_icons=true&theme=default&locale=en&langs_count=5&hide=scss,less,css,html,javascript&cache_seconds=1400" alt="nvhoang295" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats-z5b3.vercel.app/api?username=nvhoang295&show_icons=true&theme=default&locale=en&count_private=true&include_all_commits=true&cache_seconds=1400" alt="nvhoang295" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats-z5b3.vercel.app/api?username=nvhoang295&show_icons=true&theme=default&locale=en&count_private=true&include_all_commits=false&cache_seconds=1400" alt="nvhoang295" /></p>
 
 
 
