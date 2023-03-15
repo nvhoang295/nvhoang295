@@ -41,9 +41,6 @@
 </picture>  -->
 
 
-
-
-
 <h3 align="center">🐍 My pet 🐍</h3>
 <p align="center"><img src="https://github.com/nvhoang295/nvhoang295/blob/output/github-contribution-grid-snake.svg"></p>
 
