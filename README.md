@@ -11,7 +11,7 @@
 <div align="center">🔭 I passionate on researching <b>Applications of Artificial Intelligence</b></div>
 
 <div align="center">📫 How to reach me? <a href="mailto:viethoang295@outlook.com.vn">Click here!</a></div>
- 
+
 </div>
 <h3 align="center">💠Languages and tools💠</h3>
 <p align="center">
