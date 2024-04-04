@@ -20,7 +20,7 @@
 
 <h3 align="center">⚡Stats⚡</h3>
 
-<p align="center"><img align="center" src="https://github-readme-stats-z5b3.vercel.app/api/top-langs?username=nvhoang295&show_icons=true&theme=default&locale=en&langs_count=5&hide=scss,less,css,html,javascript&cache_seconds=1400" alt="nvhoang295" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats-z5b3.vercel.app/api/top-langs?username=nvhoang295&show_icons=true&theme=default&locale=en&langs_count=5&hide=scss,less,css,html&cache_seconds=1400" alt="nvhoang295" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats-z5b3.vercel.app/api?username=nvhoang295&show_icons=true&theme=default&locale=en&count_private=true&include_all_commits=false&cache_seconds=1400" alt="nvhoang295" /></p>
 
@@ -41,12 +41,4 @@
 </picture>  -->
 
 
-<h3 align="center">🐍 My pet 🐍</h3>
-<p align="center"><img src="https://github.com/nvhoang295/nvhoang295/blob/output/github-contribution-grid-snake.svg"></p>
-
-<h3 align="center">Connect with me</h3>
-<p align="center">
-    <a href="https://fb.com/fb.com/nvhoang2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fb.com/nvhoang2002" height="30" width="40" /></a>
-    <a href="https://instagram.com/nvhoang2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nvhoang2002" height="30" width="40" /></a>
-</p>
 
