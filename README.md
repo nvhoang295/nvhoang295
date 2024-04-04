@@ -8,7 +8,7 @@
 
 <div align="center">🌱 I’m currently learning <b>Software Engineering</b> major at <b>Hanoi University of Industry</b></div>
 
-<div align="center">🔭 I passionate on researching <b>Applications of Artificial Intelligence</b></div>
+<div align="center">🔭 I passionate on researching <b>Web Development</b></div>
 
 <div align="center">📫 How to reach me? <a href="mailto:viethoang295@outlook.com.vn">Click here!</a></div>
 
