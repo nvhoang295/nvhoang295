@@ -10,7 +10,7 @@
 
 <div align="center">🔭 I passionate on researching <b>Web Development</b></div>
 
-<div align="center">📫 How to reach me? <a href="mailto:viethoang295@outlook.com.vn">Click here!</a></div>
+<div align="center">📫 How to get in touch with me? <a href="mailto:hoangnv.swe@gmail.com">Click here!</a></div>
 
 </div>
 <h3 align="center">💠Languages and tools💠</h3>
