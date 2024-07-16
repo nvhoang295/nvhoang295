@@ -15,7 +15,10 @@
 </div>
 <h3 align="center">💠Languages and tools💠</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,mysql,html,css,js,bootstrap&theme=light&perline=4" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,redis,maven,gradle,regex,mysql&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,angular,html,css,sass,js,ts,bootstrap,&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,md&theme=light" />
+  <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,postman&theme=light" />
 </p>
 
 <h3 align="center">⚡Stats⚡</h3>
